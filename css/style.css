@@ -1484,10 +1484,10 @@ body.dark .loader_line:after{
 .iknow_tm_about .right .bigger_text{
 	width: 100%;
 	float: left;
-	padding: 25px 0px;
+	padding: 18px 0px;
 }
 .iknow_tm_about .right .bigger_text p{
-	font-size: 21px;
+	font-size: 18px;
 	font-weight: 500;
 	color: #222;
 	line-height: 1.6;
